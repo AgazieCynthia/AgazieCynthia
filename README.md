@@ -26,7 +26,7 @@ An interactive Power BI dashboard analyzing:
 - Brand performance
 - Country-level sales insights
 
-🔗 [View Project](paste-your-link-here)
+🔗 [View Project](https://github.com/AgazieCynthia/Shoe_Supply_sales-Dashboard)
 
 ### 📄 Parch & Posey Sales Analysis
 A Power BI sales analysis project for a paper company, analyzing:

@@ -38,6 +38,17 @@ A Power BI sales analysis project for a paper company, analyzing:
 
 🔗 [View Project](https://github.com/AgazieCynthia/Parch-and-posey_Analysis)
 
+
+### 📊 Excel Data Entry Project
+
+An Excel-based data management project demonstrating:
+- Data entry and record organization
+- Data cleaning and quality checks
+- Spreadsheet formatting and management
+- Preparing structured data for analysis
+
+🔗 [View Project](paste-your-excel-data-entry-project-link-here)
+
 ## 📚 Currently Learning
 
 - Advanced SQL

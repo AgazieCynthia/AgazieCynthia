@@ -36,7 +36,7 @@ A Power BI sales analysis project for a paper company, analyzing:
 - Regional sales
 - Sales trends
 
-🔗 [View Project](paste-your-link-here)
+🔗 [View Project](https://github.com/AgazieCynthia/Parch-and-posey_Analysis)
 
 ## 📚 Currently Learning
 

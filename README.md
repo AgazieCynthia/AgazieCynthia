@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Cynthia Agazie 👋
 
-<!--
-**AgazieCynthia/AgazieCynthia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Analyst | Power BI | SQL | Excel
 
-Here are some ideas to get you started:
+I am a data analyst passionate about transforming raw data into meaningful insights through data cleaning, visualization, and reporting. I build interactive dashboards that help businesses understand performance, identify trends, and make data-driven decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🛠️ Skills
+
+- Power BI
+- SQL
+- Microsoft Excel
+- Data Cleaning
+- Data Entry & Data Management
+- Data Visualization
+- Dashboard Development
+- Reporting & Business Analysis
+
+## 📊 Featured Projects
+
+### 👟 Shoe Sales Performance Dashboard
+An interactive Power BI dashboard analyzing:
+- Total revenue
+- Units sold
+- Sales channels
+- Brand performance
+- Country-level sales insights
+
+🔗 [View Project](paste-your-link-here)
+
+### 📄 Parch & Posey Sales Analysis
+A Power BI sales analysis project for a paper company, analyzing:
+- Revenue performance
+- Product sales (Standard, Gloss, and Poster paper)
+- Customer performance
+- Regional sales
+- Sales trends
+
+🔗 [View Project](paste-your-link-here)
+
+## 📚 Currently Learning
+
+- Advanced SQL
+- DAX for Power BI
+- Data Analytics best practices
+- Data Engineering
+- Python Language 
+
+## 📫 Connect With Me
+
+Email: cynthyagazie35@gmail.com 

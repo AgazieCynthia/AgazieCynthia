@@ -2,7 +2,7 @@
 
 ## Data Analyst | Power BI | SQL | Excel
 
-I am a data analyst passionate about transforming raw data into meaningful insights through data cleaning, visualization, and reporting. I build interactive dashboards that help businesses understand performance, identify trends, and make data-driven decisions.
+I am a data analyst and Data Entry Professional passionate about transforming raw data into meaningful insights through data cleaning, visualization, and reporting. I build interactive dashboards that help businesses understand performance, identify trends, and make data-driven decisions.
 
 
 ## 🛠️ Skills

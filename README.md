@@ -47,7 +47,7 @@ An Excel-based data management project demonstrating:
 - Spreadsheet formatting and management
 - Preparing structured data for analysis
 
-🔗 [View Project](paste-your-excel-data-entry-project-link-here)
+🔗 [View Project](https://github.com/AgazieCynthia/excel_data_entry_project)
 
 ## 📚 Currently Learning
 

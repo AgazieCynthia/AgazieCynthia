@@ -55,8 +55,21 @@ An Excel-based data management project demonstrating:
 - DAX for Power BI
 - Data Analytics best practices
 - Data Engineering
-- Python Language 
 
+
+### 📊 HR Analytics Dashboard (Power BI)
+
+Interactive HR dashboard built with Power BI to analyze employee attrition, workforce demographics, and employee satisfaction.
+
+**Tools:** Power BI | DAX | Excel
+
+**Key Features:**
+- Employee attrition analysis
+- Workforce overview
+- Satisfaction and performance insights
+- Interactive slicers and KPIs
+
+🔗 [View Project](your-repository-link)
 ## 📫 Connect With Me
 
 Email: cynthyagazie35@gmail.com 

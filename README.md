@@ -69,7 +69,7 @@ Interactive HR dashboard built with Power BI to analyze employee attrition, work
 - Satisfaction and performance insights
 - Interactive slicers and KPIs
 
-🔗 [View Project](your-repository-link)
+🔗 [View Project](https://github.com/AgazieCynthia/HR-Analytics-Dashboard-PowerBI)
 ## 📫 Connect With Me
 
 Email: cynthyagazie35@gmail.com 
